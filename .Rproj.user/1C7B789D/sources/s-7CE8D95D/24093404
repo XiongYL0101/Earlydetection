@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1657332703406.000,
+    "dirty" : false,
+    "encoding" : "CP936",
+    "folds" : "",
+    "hash" : "2482240650",
+    "id" : "24093404",
+    "lastKnownWriteTime" : 1657332776,
+    "last_content_update" : 1657332776128,
+    "path" : "D:/data/data16/IA score/Earlydetection/R/IAdefen.R",
+    "project_path" : "R/IAdefen.R",
+    "properties" : {
+        "cursorPosition" : "43,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

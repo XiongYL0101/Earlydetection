@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1657332787809.000,
+    "dirty" : false,
+    "encoding" : "CP936",
+    "folds" : "",
+    "hash" : "631497661",
+    "id" : "F7EE6216",
+    "lastKnownWriteTime" : 1657332852,
+    "last_content_update" : 1657332852224,
+    "path" : "D:/data/data16/IA score/Earlydetection/R/Earlydetection.R",
+    "project_path" : "R/Earlydetection.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
